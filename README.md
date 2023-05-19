@@ -1,5 +1,8 @@
 
 ### Olá, me chamo Rafael Silva.👋
+ Trabalho à 2 anos com desenvolvimento de sofware dedicadamente, usando Delphi como principal tecnologia de desenvolvimento.
+ Também me dedico ao estudo de JavaScript, TypeScript, React e NodeJs.
 
-<div align="center">
-<img src="https://c.tenor.com/4SzhSb7-xp8AAAAd/construcao-under-construction.gif alt="200" width="200"" />
+ Aqui você verá alguns repositórios de estudos e projetos desenvolvidos por mim.
+
+
